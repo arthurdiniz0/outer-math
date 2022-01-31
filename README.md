@@ -14,12 +14,12 @@ The game has three difficulty levels (easy, medium and hard), among which the pl
 
 ## Development
 
-The game was developed in C# with the Unity 3D game engine, PlayMaker and other free assets / models from the Unity Asset Store. All scrips were created through PlayMaker, with its powerful visual scripting tool. Executable files were built for Windows (.exe), MacOS (.app) and Android (.apk). 
+The game was developed in C# with the Unity 3D game engine, PlayMaker and other free assets / models from the Unity Asset Store. All scripts were created through PlayMaker, with its powerful visual scripting tool. Executable files were built for Windows (.exe), MacOS (.app) and Android (.apk). 
 
 ![Alt Text](https://media.giphy.com/media/f4jDSwUP4Q7ATsTHTw/giphy.gif)
 
 ## Objective
 
-The game is simple, intuitive and fun, and therefore easy to use as a teaching tool, both inside and outside the classroom. Thus, it can be a powerful tool in the development of the reasoning of children and adolescents, since the gamification of content proves to be an efficient way to bring students closer to school subjects.
+The game is simple, intuitive and fun, and therefore easy to use as a teaching tool, both inside and outside the classroom. Thus, it can be a powerful tool in the development of the logical reasoning in children and teenagers, since the gamification of content has proven itself to be an efficient way to bring students closer to school subjects.
 
 
