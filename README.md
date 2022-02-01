@@ -14,7 +14,7 @@ The game has three difficulty levels (easy, medium and hard), among which the pl
 
 ## Development
 
-The game was developed in C# with the Unity 3D game engine, PlayMaker and other free assets / models from the Unity Asset Store. All scripts were created through PlayMaker, with its powerful visual scripting tool. Executable files were built for Windows (.exe), MacOS (.app) and Android (.apk). 
+The game was developed in C# with the Unity 3D game engine (2020.3.24f1), PlayMaker and other free assets / models from the Unity Asset Store. All scripts were created through PlayMaker, with its powerful visual scripting tool. Executable files were built for Windows (.exe), MacOS (.app) and Android (.apk). 
 
 ![Alt Text](https://media.giphy.com/media/f4jDSwUP4Q7ATsTHTw/giphy.gif)
 
